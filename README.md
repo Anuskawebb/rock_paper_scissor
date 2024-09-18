@@ -19,4 +19,6 @@ A simple Rock, Paper, Scissors game built using HTML, CSS, and JavaScript.
 3. The result will be displayed, and scores updated accordingly.
 
 ## Screenshots
-![Game Interface](./images/screenshot.png)
+![Game Interface](./images/Screenshot%20(78).png)
+![Game Interface](./images/Screenshot%20(79).png)
+![Game Interface](./images/Screenshot%20(80).png)
